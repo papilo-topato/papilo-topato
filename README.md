@@ -1,8 +1,4 @@
-
-
 ## 👋 Hello, I'm Raghuram K S!
-
-![DH](https://github.com/user-attachments/assets/a20d9e8d-f55e-427c-9e26-fdef2a1701bc)
 
 I'm a passionate Electronics and Communication Engineer with a strong interest in Artificial Intelligence, Machine Learning, and Embedded Systems. My goal is to bridge the gap between cutting-edge technology and real-world solutions by leveraging AI and automation.
 
