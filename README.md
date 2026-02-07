@@ -64,7 +64,7 @@ delivery while maintaining code quality. Published researcher in neuromorphic co
 
 ## 🚀 Featured Projects
 
-### 🧠 **[Tradl Flow](https://github.com/papilo-topato/Tradl-Flow)** *(if repo exists)*
+### 🧠 **[Tradl Flow](https://github.com/papilo-topato/Tradl-Flow)**
 **AI-Powered Financial Intelligence Engine**
 
 An end-to-end GenAI application that analyzes financial documents and news using RAG.
@@ -139,10 +139,6 @@ Relevant Coursework: Object-Oriented Programming, Data Structures & Algorithms,
 Database Management Systems, Computer Networks
 
 ---
-
-## 📈 GitHub Stats
-![Raghuram's GitHub stats](https://github-readme-stats.vercel.app/api?username=papilo-topato&show_icons=true&theme=radical)
-
 ---
 
 ## 🎯 Currently Learning
