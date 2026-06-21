@@ -1,163 +1,55 @@
+---
+
 # Hi there, I'm Raghuram K S! 👋
 
-### 🐍 Python Developer | AI/ML Enthusiast | Published Researcher
-**📍 Bengaluru, India | Open to Opportunities**
+### ⚡ Signal & Power Integrity Engineer | Hardware Enthusiast | AI-Assisted "Vibe Coder"
 
-Recent B.E. graduate (Electronics & Communication, 2024) with hands-on experience 
-building **Python-based data pipelines, REST APIs, and GenAI solutions**. I enjoy 
-solving real-world problems with clean code and modern AI technologies.
+**📍 Bengaluru, India**
+
+I used to solve problems with software. Now, I solve them with physics.
+
+My engineering journey started in software—building data pipelines, REST APIs, and leading a team to the National Finals of the Smart India Hackathon. But as an ECE grad, I kept getting pulled back to the physical layer, where the real constraints live.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Python developer** with production experience in **data analytics, automation, 
-and AI/ML integration**. My work spans from building **FastAPI backends** and **RAG 
-pipelines** to leading teams in national-level hackathons.
+Today, I work as a **Signal Integrity (SI) & Power Integrity (PI) Engineer**. Instead of debugging microservices, I spend my days running simulations and wrestling with propagation delays, characteristic impedance, and Maxwell's equations to ensure high-speed designs hold up in the real world.
 
-I leverage **AI-assisted development tools** (Claude Code, Cursor) to accelerate 
-delivery while maintaining code quality. Published researcher in neuromorphic computing.
+My software background wasn't a detour; it's the exact reason I approach hardware systems differently.
 
----
-
-## 💼 Professional Experience
-
-### **Electronic Payment and Services (EPS)** | Software Engineer - Automation & Analytics
-*May 2025 – Nov 2025 (6 months)*
-
-* **Data Processing Pipelines:** Built automated Python pipelines using Pandas and NumPy 
-  to clean and transform operational CSV datasets for ATM operations analytics
-* **REST APIs:** Developed FastAPI backend to expose data transformation workflows for 
-  enterprise system integration
-* **Analytics Dashboards:** Created interactive dashboards using Streamlit and Matplotlib 
-  to visualize key metrics (TAT, ATM expenditure) for stakeholders
-* **Solo Project Ownership:** Independently managed full project lifecycle from 
-  requirements to deployment
-* **Tech Stack:** Python, FastAPI, Pandas, NumPy, Streamlit, Matplotlib, Docker, Git
-
-*Note: Position ended due to company-wide financial restructuring.*
+While I've stepped away from professional software engineering, I still build custom apps for my daily use. I **"vibe code"** entirely through AI-assisted development—meaning I rarely write code by hand anymore, and I use whatever language gets the job done fastest.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Arsenal
 
-**Languages:** Python, SQL, MicroPython, JavaScript (basic), HTML/CSS (basic)
-
-**Backend & APIs:** FastAPI, REST API Development, JSON Processing
-
-**AI/ML & GenAI:** 
-- Large Language Models (Llama 3.2, OpenAI)
-- RAG (Retrieval-Augmented Generation) 
-- ChromaDB (Vector Database)
-- LangGraph (Multi-agent systems)
-- PyTorch, TensorFlow, Computer Vision
-
-**Data & Analytics:** Pandas, NumPy, Matplotlib, Data Processing, Web Scraping
-
-**Tools & Platforms:** Git, Docker (basic), Streamlit, VS Code, Arduino/ESP32
-
-**Databases:** MySQL, Vector Databases (ChromaDB)
-
-**Cloud:** AWS (Foundational), Google Cloud Platform (basic)
+**EDA & Simulation:** Siemens HyperLynx, Ansys, Cadence Allegro
+**Core Hardware Focus:** SI/PI Simulations, High-Speed PCB Design, Electromagnetic Theory
+**Vibe Coding Tools:** AI-Assisted IDEs (Cursor, Claude Code), Language-Agnostic LLM Prompting
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Past Software Highlights
 
-### 🧠 **[Tradl Flow](https://github.com/papilo-topato/Tradl-Flow)**
-**AI-Powered Financial Intelligence Engine**
-
-An end-to-end GenAI application that analyzes financial documents and news using RAG.
-
-**Tech Stack:** Python, FastAPI, Llama 3.2 (via Ollama), ChromaDB, LangGraph, Streamlit
-
-**Key Features:**
-- RAG pipeline for semantic search across 50+ page financial documents
-- Multi-agent system using LangGraph for intelligent query routing
-- Web scraping module to aggregate financial news
-- FastAPI backend with RESTful endpoints
-- Interactive Streamlit frontend for natural language queries
-
-**What I learned:** LLM integration, vector databases, prompt engineering, AI-assisted development
+* 🚌 **Smart Transit (SIH 2022 - National Finalist):** Led a cross-functional team of 7. Built a real-time IoT passenger tracking system using ESP32, MicroPython, and MySQL.
+* 🧠 **[Tradl Flow](https://github.com/papilo-topato/Tradl-Flow):** Developed an AI-powered financial intelligence engine using RAG, Llama 3.2, ChromaDB, and LangGraph.
+* 🐕 **Dog Breed Image Classifier:** Built a CNN-based deep learning model as an Udacity AI Programming Nanodegree Scholarship Recipient.
 
 ---
 
-### 🚌 **Smart Transit: IoT Passenger Flow Tracking System** | **Team Lead**
-**Smart India Hackathon 2022 - National Finalist (Top 7/10,000+ teams)**
+## 🌍 Beyond the Board
 
-Real-time bus passenger tracking system using IoT sensors and cloud backend.
-
-**Tech Stack:** Python, MicroPython, ESP32, MySQL, Machine Learning, REST APIs
-
-**My Contributions:**
-- Architected end-to-end IoT solution
-- Developed sensor integration layer using MicroPython on ESP32 microcontrollers
-- Designed MySQL database for real-time CRUD operations
-- Led cross-functional team of 7 across hardware, backend, and frontend development
-- Built basic ML models for passenger flow pattern prediction
-
-**Certificate:** [View Certificate](https://bit.ly/3q4tSBg)
-
----
-
-### 🐕 **Dog Breed Image Classifier** | **Deep Learning**
-**Udacity AI Programming Nanodegree - Scholarship Recipient**
-
-CNN-based image classification system built from scratch.
-
-**Tech Stack:** Python, PyTorch/TensorFlow, Neural Networks, Computer Vision
-
-**Highlights:**
-- Selected for Udacity scholarship (chosen from 2,000+ global applicants)
-- Trained custom CNN model from scratch
-- Applied transfer learning for improved accuracy
-- Demonstrates understanding of deep learning fundamentals (backpropagation, optimization)
-
----
-
-## 📚 Publications & Certifications
-
-**Publication:**
-- Raghuram, K. S. (2024). "Neuromorphic Computing: A Review." *Scienxt Journal of 
-  Emerging Technologies in Electronics Engineering*, 2(2), 1-23.
-
-**Certifications:**
-- OpenEDG Python Institute: Programming with Python Professional Certificate (Jan 2026)
-- Udacity AI Programming with Python Nanodegree (Scholarship Recipient, Jul 2024)
-- Introducing Generative AI with AWS - Udacity (Jun 2024)
-- Google Cloud Generative AI Fundamentals (Jun 2023)
-
----
-
-## 🎓 Education
-
-**Dayananda Sagar Academy of Technology and Management, Bengaluru**  
-Bachelor of Engineering in Electronics and Communication Engineering  
-**CGPA:** 7.89/10 | **2020 - 2024**
-
-Relevant Coursework: Object-Oriented Programming, Data Structures & Algorithms, 
-Database Management Systems, Computer Networks
-
----
----
-
-## 🎯 Currently Learning
-- LangChain & LlamaIndex for advanced LLM orchestration
-- Pinecone & FAISS for production vector databases
-- Advanced prompt engineering techniques
-- Production ML deployment & MLOps
+Systems thinking applies everywhere, not just on a PCB. Outside of engineering, I volunteer with **Youth For Parivarthan**, a Bengaluru-based NGO, helping organize and execute community clean-up drives and Recyclothons.
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively seeking **Python Developer, AI/ML Engineer, or Backend Engineer** roles 
-in Bengaluru or remote.
+Always happy to chat about signal integrity, hardware design, or the intersection of engineering and AI!
 
-**LinkedIn:** [linkedin.com/in/papilo-topato](https://www.linkedin.com/in/papilo-topato)  
-**Email:** raghuramks07@gmail.com  
+**LinkedIn:** [linkedin.com/in/papilo-topato](https://www.linkedin.com/in/papilo-topato)
+
+**Email:** raghuramks07@gmail.com
+
 **Twitter/X:** [@papilo_topato](https://x.com/papilo_topato)
-
----
-
-*"Building AI solutions, one RAG pipeline at a time."*
