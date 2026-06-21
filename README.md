@@ -4,7 +4,7 @@
 
 ### ⚡ Signal & Power Integrity Engineer | Hardware Enthusiast | AI-Assisted "Vibe Coder"
 
-**📍 Bengaluru, India**
+"**📍 Bengaluru, India**"
 
 I used to solve problems with software. Now, I solve them with physics.
 
